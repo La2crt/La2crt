@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Leslie Asamoah Tannor
 - 👀 I’m interested in Web Designing and Graphic Designing
 - 🌱 I’m currently learning Cybersecurity but I am a Software Engineer with Honours Graduate
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me asamoah.leslie@gmail.com or by LinkedIn https://www.linkedin.com/in/leslie-asamoah-tannor-863aa3a6/
 
 <!---
